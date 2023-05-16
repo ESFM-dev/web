@@ -7,7 +7,7 @@ import { RouterView } from 'vue-router'
     <p class="font-bold mx-4 mr-10">
       &gt;ESFM_Dev
     </p>
-    <a href="#" class="rounded-full text-center px-3 py-2 text-xs text-sky-400 font-bold bg-sky-400/[0.1]">
+    <a href="https://www.registro.esfmdev.net" target="_blank" class="rounded-full text-center px-3 py-2 text-xs text-sky-400 font-bold bg-sky-400/[0.1]">
       Proximo seminario: Video Juegos
     </a>
   </header>
