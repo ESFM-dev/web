@@ -1,0 +1,102 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  padding: 20px 0px;
+  background: #EFEEEE;
+}
+p {
+  font-size: 1.2rem;
+  text-align: justify;
+}
+.logo {
+  height: 30px;
+  width: auto;
+  display: block;
+  margin: 0px auto;
+  margin-bottom: 35px;
+}
+.body {
+  width: 66.6%;
+  border-radius: 25px;
+  background: #FAFAFA;
+  margin: 0px auto;
+}
+.congratulations {
+  border-radius: 25px 25px 0px 0px;
+  background: rgb(126,27,73);
+  padding: 50px 0px;
+}
+  .congratulations p {
+    color: #FFF;
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-align: center;
+  }
+.time {
+  display: flex;
+  align-items: center;
+  margin: 50px 0px;
+  padding: 0px 20px;
+}
+  .time p {
+    margin-right: 50px;
+  }
+  .time img {
+    width: 20%;
+  }
+.changes {
+  display: flex;
+  align-items: center;
+  margin: 50px 0px;
+  padding: 0px 20px;
+}
+  .changes p {
+    margin-left: 50px;
+  }
+  .changes img {
+    width: 20%;
+  }
+.banner {
+  display: flex;
+  flex-direction: row;
+}
+  .banner p {
+    width: 40%;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin: 10px 5%;
+    padding: 15px 20px;
+    background: #fef3c7;
+  }
+.despedida {
+  font-weight:bold;
+  font-size:1.5rem;
+}
+.footer {
+  width: auto;
+  margin: 20px auto;
+}
+  .footer p {
+    text-align: center !important;
+  }
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 30px 0px;
+}
+  footer a {
+    margin: 0px 10px;
+    height: 30px;
+    text-decoration: none;
+    color: #000;
+  }
+  footer img {
+    width: 30px;
+    height: auto;
+  }
+.info p {
+  font-size: 0.9rem;
+  text-align: center;
+}

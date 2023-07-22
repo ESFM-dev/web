@@ -37,7 +37,7 @@ export default {
 .connect {
     @apply flex mx-auto bg-cover relative w-[80px] h-[80px] rounded-full border-4 border-gray-700 z-10;
 }
-    .connect::after {
+    /*.connect::after {
         @apply border-2 border-gray-700 absolute bottom-full w-0 z-0;
         content: ' ';
         left: calc(50% - 2px);
@@ -48,5 +48,5 @@ export default {
         content: ' ';
         left: calc(50% - 2px);
         height: 200%;
-    }
+    }*/
 </style>
